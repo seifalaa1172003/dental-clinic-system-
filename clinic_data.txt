@@ -1,0 +1,9 @@
+Doctor:youssef.22|youssef|youssef|mostafa|youssef@gmail.com|01123796563|Dental Public Health:|sunday,friday|09:00-10:00,07:00-08:00
+Patient:ahmed|ahmed|ahmed|hamed|ahmed@gmail.com|01187654699||21|male|A+|65.0|176.0
+Receptionist:omar|omar|omar|hany|omar@gmail.com|01123786564|20|male
+Appointment:588235|null|youssef mostafa|2024-12-22|09:00 - 09:30|available
+Appointment:201363|null|youssef mostafa|2024-12-22|09:30 - 10:00|available
+Appointment:868081|null|youssef mostafa|2024-12-20|07:00 - 07:30|available
+Appointment:945922|ali mohamed|youssef mostafa|2024-12-20|07:30 - 08:00|booked
+Patient:ahmed|ahmed|ahmed|hamed|ahmed@gmail.com|01187654699||21|male|A+|65.0|176.0
+Receptionist:omar|omar|omar|hany|omar@gmail.com|01123786564|20|male
